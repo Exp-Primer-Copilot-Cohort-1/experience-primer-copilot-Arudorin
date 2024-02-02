@@ -38,7 +38,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 10,
-      "points": 1
+      "points": 2
     },
     {
       "name": "Step 4 Copilot comment",
